@@ -6,3 +6,8 @@ main:
     pdf: https://www.jneurosci.org/content/jneuro/43/1/82.full.pdf
     image: ./assets/img/SPARSE10X_MAX_IP-ApoTome-04.jpg
     
+  - title: Improvement of sensory deficits in fragile X mice by increasing cortical interneuron activity after the critical period
+    authors: Nazim Kourdougli*, Anand Suresh, <strong>Benjamin Liu*</strong>, ..., Carlos Portera-Cailliau(*Corresponding authors)
+    Journal: Neuron
+    pdf: https://www.cell.com/neuron/pdf/S0896-6273(23)00468-3.pdf
+    image: ./assets/img/Nazim abstract.png
