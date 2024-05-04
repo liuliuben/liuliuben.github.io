@@ -18,10 +18,10 @@ main:
     pdf: https://www.cell.com/neuron/pdf/S0896-6273(23)00468-3.pdf
     image: ./assets/img/nazim abstract.png
 
-  - title: Improvement of sensory deficits in fragile X mice by increasing cortical interneuron activity after the critical period
-    authors: Nazim Kourdougli*, Anand Suresh, <strong>Benjamin Liu*</strong>, ..., Carlos Portera-Cailliau(*Corresponding authors)
-    Journal: Neuron
-    pdf: https://www.cell.com/neuron/pdf/S0896-6273(23)00468-3.pdf
-    image: ./assets/img/nazim abstract.png
+  - title: GluN2A NMDA receptor enhancement improves brain oscillations, synchrony, and cognitive functions in Dravet syndrome and Alzheimer’s disease models
+    authors: Jesse E Hanson*, Keran Ma, Justin Elstrott, Martin Weber, Sandrine Saillet, Abdullah S Khan, Jeffrey Simms, <strong>Benjamin Liu</strong>, ..., Jorge J Palop*(*Corresponding authors)
+    Journal: Cell Reports
+    pdf: https://www.cell.com/cell-reports/pdf/S2211-1247(19)31680-8.pdf
+    image: ./assets/img/jorge abstract.png
 
 for information on additional publications refer to my google scholar profile (link in the left bar)
