@@ -6,12 +6,12 @@ layout: homepage
 
 Neurophysiologist with a rigorous background in computational neuroscience
 
-Avid rock climber, snowboarder and coffee/tea enthusiast.
-Favorites:
-  Climbing area: Joshua Tree National Park, CA
-  Snow resort: Whistler Blackcomb, B.C
-  Coffee region: Ethiopia
-  Tea region: Lugu, Nantou, Taiwan  
+Avid rock climber, snowboarder and coffee/tea enthusiast
+-Favorites:
+-Climbing area: Joshua Tree National Park, CA
+-Snow resort: Whistler Blackcomb, B.C
+-Coffee region: Ethiopia
+-Tea region: Lugu, Nantou, Taiwan  
 
 ## Research Interests
 
