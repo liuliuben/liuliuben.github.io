@@ -19,8 +19,8 @@ Neurophysiologist with a rigorous background in computational neuroscience
 - **[March 25th, 2019]** Began lab rotation with Istvan Mody, Ph.D.
 - **[January 2nd, 2019]** Began lab rotation with Dean Buonomano, Ph.D.
 - **[September 23rd, 2018]** Began lab rotation with Peyman Golshani, Ph.D.
-- **[September 23rd, 2018]** Joined UCLA Interdepartmental Ph.D. Program for Neuroscience (NSIDP)
-- **[July 1st, 2016]** Joined the lab of Jorge Palop, Ph.D. as a Research Associate at the Gladstone Institutes in San Francisco, CA
+- **[September 23rd, 2018]** Joined UCLA Interdepartmental Ph.D. Program for Neuroscience
+- **[July 1st, 2016]** Joined the lab of Jorge Palop, Ph.D. at the Gladstone Institutes 
 - **[May 13th, 2016]** Graduated from Boston University with a B.A. in Neuroscience
 
 
