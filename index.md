@@ -9,7 +9,10 @@ Neurophysiologist with a rigorous background in computational neuroscience
 ## Research Interests
 
 - **Neural Plasticity** 
-- **Neural Dynamics** 
+- **Neural Dynamics**
+- **Neuroscience Research Tools**
+- **Brain Machine Interfaces**
+- **Neural Decoding**
 
 ## Academic Journey
 
