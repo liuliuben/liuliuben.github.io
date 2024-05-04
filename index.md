@@ -7,11 +7,6 @@ layout: homepage
 Neurophysiologist with a rigorous background in computational neuroscience
 
 Avid rock climber, snowboarder and coffee/tea enthusiast
-- Favorites:
-- Climbing area: Joshua Tree National Park, CA
-- Snow resort: Whistler Blackcomb, B.C
-- Coffee region: Ethiopia
-- Tea region: Lugu, Nantou, Taiwan  
 
 ## Research Interests
 
@@ -38,5 +33,6 @@ Avid rock climber, snowboarder and coffee/tea enthusiast
 - **[July 2016]** Joined the lab of Jorge Palop, at the Gladstone Institutes, San Francisco CA
 - **[May 2016]** Graduated from Boston University with a B.A. in Neuroscience
 - **[January 2015]** Joined the lab of Jen-Wei Lin, Ph.D.
+- **[September 2013]** Started undergraduate studies at Boston University in Neuroscience 
 
 {% include_relative _includes/publications.md %}
