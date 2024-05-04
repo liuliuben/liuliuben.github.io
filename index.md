@@ -31,9 +31,9 @@ Avid rock climber, snowboarder and coffee/tea enthusiast
 - **[September 2018]** Began lab rotation with Peyman Golshani at UCLA
 - **[September 2018]** Joined UCLA Interdepartmental Ph.D. Program for Neuroscience
 - **[Feburary 2018]** Presented at the 62nd Annual Biophysical Society Meeting, San Francisco CA
-- **[July 2016]** Joined the lab of Jorge Palop, at the Gladstone Institutes, San Francisco CA
+- **[July 2016]** Joined the lab of Jorge Palop, at the Gladstone Institutes/UCSF, San Francisco CA
 - **[May 2016]** Graduated from Boston University with a B.A. in Neuroscience
-- **[January 2015]** Joined the lab of Jen-Wei Lin, Ph.D.
-- **[September 2013]** Started undergraduate studies at Boston University in Neuroscience 
+- **[January 2015]** Joined the lab of Jen-Wei Lin at Boston University
+- **[September 2013]** Started undergraduate studies at Boston University in Neuroscience
 
 {% include_relative _includes/publications.md %}
