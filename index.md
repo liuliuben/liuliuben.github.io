@@ -8,8 +8,8 @@ Neurophysiologist with a rigorous background in computational neuroscience
 
 ## Research Interests
 
-- **Neural Plasticity:** 
-- **Neural Dynamics:** 
+- **Neural Plasticity** 
+- **Neural Dynamics** 
 
 ## News
 
