@@ -26,4 +26,3 @@ Neurophysiologist with a rigorous background in computational neuroscience
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
