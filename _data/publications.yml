@@ -1,25 +1,25 @@
 main:
 
   - title: Ex Vivo Cortical Circuits Learn to Predict and Spontaneously Replay Temporal Patterns
-    authors: <strong>Benjamin Liu*</strong>, Dean V. Buonomano*(*Corresponding authors)
+    authors: <strong>Benjamin Liu*</strong>, Dean V. Buonomano*
     Journal: 
     pdf: 
     image: ./assets/img/2188_merge.jpg
     
   - title: Creation of Neuronal Ensembles and Cell-Specific Homeostatic Plasticity through Chronic Sparse Optogenetic Stimulation
-    authors: <strong>Benjamin Liu*</strong>, Michael J. Seay, Dean V. Buonomano* (*Corresponding authors)
+    authors: <strong>Benjamin Liu*</strong>, Michael J. Seay, Dean V. Buonomano* 
     Journal: The Journal of Neuroscience
     pdf: https://www.jneurosci.org/content/jneuro/43/1/82.full.pdf
     image: ./assets/img/SPARSE10X_MAX_IP-ApoTome-04.jpg
     
   - title: Improvement of sensory deficits in fragile X mice by increasing cortical interneuron activity after the critical period
-    authors: Nazim Kourdougli*, Anand Suresh, <strong>Benjamin Liu*</strong>, ..., Carlos Portera-Cailliau*(*Corresponding authors)
+    authors: Nazim Kourdougli*, Anand Suresh, <strong>Benjamin Liu*</strong>, ..., Carlos Portera-Cailliau*
     Journal: Neuron
     pdf: https://www.cell.com/neuron/pdf/S0896-6273(23)00468-3.pdf
     image: ./assets/img/nazim abstract.png
 
   - title: GluN2A NMDA receptor enhancement improves brain oscillations, synchrony, and cognitive functions in Dravet syndrome and Alzheimer’s disease models
-    authors: Jesse E Hanson*, Keran Ma, Justin Elstrott, Martin Weber, Sandrine Saillet, Abdullah S Khan, Jeffrey Simms, <strong>Benjamin Liu</strong>, ..., Jorge J Palop*(*Corresponding authors)
+    authors: Jesse E Hanson*, Keran Ma, Justin Elstrott, Martin Weber, Sandrine Saillet, Abdullah S Khan, Jeffrey Simms, <strong>Benjamin Liu</strong>, ..., Jorge J Palop*
     Journal: Cell Reports
     pdf: https://www.cell.com/cell-reports/pdf/S2211-1247(19)31680-8.pdf
     image: ./assets/img/jorge abstract.png
