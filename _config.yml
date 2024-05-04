@@ -19,8 +19,8 @@ linkedin: https://www.linkedin.com/in/benjamin-liu-03516299/
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/IMG_0207.jpg
-favicon: ./assets/img/neuron_icon.jpg
-favicon_dark: ./assets/img/neuron_icon.jpg
+favicon: ./assets/img/Liu.jpg
+favicon_dark: ./assets/img/Liu.jpg
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
