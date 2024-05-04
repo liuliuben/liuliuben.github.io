@@ -19,6 +19,7 @@ Avid rock climber, snowboarder and coffee/tea enthusiast
 ## Academic Journey
 
 - **[March 14th, 2024]** Defended my Ph.D dissertation: Learning and Neural Dynamics in Neocortical Microcircuits
+- **[November 2023]** Presented at Society for Neuroscience Annual Meeting, Washington DC
 - **[July 2023]** Attended the 35th Methods in Computational Neuroscience Course at the Marine Biological Laboratory, Woodshole MA
 - **[November 2022]** Presented at Society for Neuroscience Annual Meeting, San Diego CA
 - **[June 2022]** Presented at the Gordon Research Conference: Synaptic Transmission, Lucca Italy
